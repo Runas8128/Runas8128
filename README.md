@@ -1,4 +1,4 @@
-# 안녕하세요! 야매 개발자 Runas입니다.
+# 안녕하세요! 대학생 개발자 Runas입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runas8128&layout=donut&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=runas)](https://solved.ac/runas/)
