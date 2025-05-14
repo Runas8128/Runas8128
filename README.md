@@ -33,8 +33,8 @@
 ### Platforms
 
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=White)
-![Vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=White)
 
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=White)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=White)
 
 ## Contacts 📫
