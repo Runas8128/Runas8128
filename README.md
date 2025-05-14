@@ -17,23 +17,27 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=White)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=White)
 
-### Platforms / Frameworks / etc.
+### Frameworks
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=White)
+![Svelte](https://img.shields.io/badge/svelte-FF3E00.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 
-![Discord](https://img.shields.io/badge/Discord.py-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord.js-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=White)
-![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?&style=for-the-badge&logo=Jinja&logoColor=White)
+
+### Platforms
+
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?&style=for-the-badge&logo=vercel&logoColor=White)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=White)
 
 ## Contacts 📫
 
